@@ -1,1 +1,3 @@
 aws create table
+
+made some changes in the table
